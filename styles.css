@@ -1,0 +1,222 @@
+body {
+    font-family: 'Tiro Bangla', Serif;
+    background-color: #99ff99;
+}
+
+
+
+h1 {
+    text-shadow: 3px 3px 5px grey;
+    position: absolute;
+    left: 567px;
+}
+
+.aboutme {
+    width: 200px;
+    background: #b3ccff;
+    padding: 10px;
+    margin: 0px;
+    box-shadow: 10px 10px #001133;
+    position: absolute;
+    left: 14px;
+    top: 86px;
+}
+
+
+
+.interests {
+    width: 500px;
+    background: #b3ccff;
+    padding: 10px;
+    margin: 0px;
+    box-shadow: 10px 10px #001133;
+    position: absolute;
+    left: 14px;
+    top: 500px;
+}
+
+
+
+.college {
+    width: 300px;
+    background: #b3ccff;
+    padding: 10px;
+    margin: 0px;
+    box-shadow: 10px 10px #001133;
+    position: absolute;
+    right: 400px;
+    top: 505px;
+    left: 920px;
+}
+
+
+
+.fiveyear {
+    width: 350px;
+    background: #b3ccff;
+    padding: 10px;
+    margin: 0px;
+    box-shadow: 10px 10px #001133;
+    position: absolute;
+    top: 315px;
+    left: 870px;
+}
+
+
+
+.why {
+    width: 410px;
+    background: #b3ccff;
+    padding: 10px;
+    margin: 0px;
+    box-shadow: 10px 10px #001133;
+    position: absolute;
+    left: 810px;
+    top: 84px;
+}
+
+
+
+.things {
+    width: 195px;
+    background: #b3ccff;
+    padding: 10px;
+    margin: 0px;
+    box-shadow: 10px 10px #001133;
+    position: absolute;
+    top: 85px;
+    left: 290px;
+}
+
+
+
+.sofia {
+    position: absolute;
+    left: 420px;
+    top: -51px;
+}
+
+
+
+.st {
+    position: absolute;
+    top: 667px;
+    left: 550px;
+}
+
+
+
+.madrid {
+    position: absolute;
+    top: 500px;
+    left: 550px;
+}
+
+
+
+.cmu {
+    position: absolute;
+    top: 690px;
+    left: 950px;
+}
+
+
+
+.music {
+    position: absolute;
+    top: 315px;
+    left: 14px;
+}
+
+
+
+.dropdown {
+    position: absolute;
+    display: inline-block;
+    top: 400px;
+    left: 820px;
+}
+
+
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+}
+
+
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.desc {
+    padding: 15px;
+    text-align: center;
+}
+
+
+
+.dropdownb {
+    position: absolute;
+    display: inline-block;
+    top: 230px;
+    left: 250px;
+}
+
+.dropdown-contentb {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+}
+
+.dropdownb:hover .dropdown-contentb {
+    display: block;
+}
+
+.descb {
+    padding: 15px;
+    text-align: center;
+}
+
+
+.note {
+    position: absolute;
+    top: 290px;
+    left: 300px;
+}
+
+
+.button {
+    background-color: #b3ccff;
+    box-shadow: 10px 10px #001133;
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    position: absolute;
+    left: 14px;
+    font-family: 'Tiro Bangla', Serif;
+}
+
+
+
+.button:hover {
+    background-color: #b3ccff;
+}
+
+
+
+.button:active {
+    background-color: #b3ccff;
+    box-shadow: 5px 5px #001133;
+    transform: translateY(5px);
+}
